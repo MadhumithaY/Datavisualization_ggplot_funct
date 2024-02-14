@@ -4,7 +4,7 @@
 This repository contains code snippets for creating visualizations using ggplot2, a popular data visualization package in R. The examples cover various aspects, including aesthetics, geoms, facets, labels, and annotations.
 
 ## Installation
-To run the code, install the tidyverse package by running the following commands step by step:
+To run the code, install the Rstudio on desktop or use rstudio cloud and install tidyverse package by running the following commands step by step:
 
 ```R
 # Install tidyverse package
