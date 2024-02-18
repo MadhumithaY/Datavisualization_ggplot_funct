@@ -51,4 +51,5 @@ Explore different ggplot functions through step-by-step examples. Each code snip
     annotate("text", x=220, y=3500, label="The Gentoos are the largest", color="purple", fontface="bold", size=4.5, angle=25)
   ```
 
+## Acknowledgment 
 Feel free to use and modify these examples for your data visualization projects. Credits to the Google Data Analysis course on Coursera (Course7-Module4) for reference.
